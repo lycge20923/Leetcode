@@ -1,2 +1,1 @@
 # Leetcode
-Practice for Leetcode
