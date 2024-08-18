@@ -2,4 +2,5 @@
 
 ## Dynamic Programming
 
-- [X] 264. Ugly Number II
+|  |Problem Description | Solution|
+| [X]| [264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/)||
