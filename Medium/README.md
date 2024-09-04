@@ -11,4 +11,4 @@
 
 | Marked | Problem Description | Solution|
 | ---- | ---- | ---- | 
-| [X]| [874. Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/description/)|[Link]()|
+| [X]| [874. Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/description/)|[Link](https://github.com/lycge20923/Leetcode/blob/main/Medium/874_Walking%20Robot%20Simulation.ipynb)|
