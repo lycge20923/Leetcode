@@ -17,4 +17,4 @@
 
 | Marked | Problem Description | Solution|
 | ---- | ---- | ---- | 
-| [X]| [1367. Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/description/)|[Link]()|
+| [X]| [1367. Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/description/)|[Link](https://github.com/lycge20923/Leetcode/blob/main/Medium/1367_Linked%20List%20in%20Binary%20Tree.ipynb)|
