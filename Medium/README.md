@@ -12,3 +12,9 @@
 | Marked | Problem Description | Solution|
 | ---- | ---- | ---- | 
 | [X]| [874. Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/description/)|[Link](https://github.com/lycge20923/Leetcode/blob/main/Medium/874_Walking%20Robot%20Simulation.ipynb)|
+
+## DFS
+
+| Marked | Problem Description | Solution|
+| ---- | ---- | ---- | 
+| [X]| [1367. Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/description/)|[Link]()|
