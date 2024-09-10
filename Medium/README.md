@@ -16,7 +16,7 @@
 ## Linked List
 | Marked | Problem Description | Solution|
 | ---- | ---- | ---- | 
-| [X]| [2807. Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/description/)|[Link]()|
+| [X]| [2807. Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/description/)|[Link](https://github.com/lycge20923/Leetcode/blob/main/Medium/2807_Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List.ipynb)|
 
 
 ## DFS
