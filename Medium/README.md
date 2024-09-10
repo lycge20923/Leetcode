@@ -13,6 +13,12 @@
 | ---- | ---- | ---- | 
 | [X]| [874. Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/description/)|[Link](https://github.com/lycge20923/Leetcode/blob/main/Medium/874_Walking%20Robot%20Simulation.ipynb)|
 
+## Linked List
+| Marked | Problem Description | Solution|
+| ---- | ---- | ---- | 
+| [X]| [2807. Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/description/)|[Link]()|
+
+
 ## DFS
 
 | Marked | Problem Description | Solution|

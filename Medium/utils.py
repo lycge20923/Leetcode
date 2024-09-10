@@ -13,6 +13,14 @@ def createListNode(array):
         node = node.next
     return head
 
+def checkListNode(head):
+    array = []
+    while head:
+        array.append(head.val)
+        head = head.next
+    return array
+
+
 class TreeNode:
     def __init__(self, val=0, left=None, right=None):
         self.val = val
